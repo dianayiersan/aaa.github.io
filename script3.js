@@ -49,103 +49,114 @@ setTimeout(pauseVideoSection , 3000);
 }
 */
 
-
-" function myFunction1() {
+ function myFunction1() {
   player.seekTo(21);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction2() {
+setTimeout(pauseVideoSection , 8000);
+}
+ function myFunction2() {
   player.seekTo(27);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction3() {
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction3() {
   player.seekTo(29);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction4() {
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction4() {
   player.seekTo(32);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction5() {
+setTimeout(pauseVideoSection , 6000);
+}
+ function myFunction5() {
   player.seekTo(36);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction6() {
+setTimeout(pauseVideoSection , 6999);
+}
+ function myFunction6() {
   player.seekTo(44);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction7() {
+setTimeout(pauseVideoSection , 7000);
+}
+ function myFunction7() {
   player.seekTo(49);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction8() {
+setTimeout(pauseVideoSection , 7000);
+}
+ function myFunction8() {
   player.seekTo(54);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction9() {
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction9() {
   player.seekTo(57);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction10() {
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction10() {
   player.seekTo(60);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction11() {
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction11() {
   player.seekTo(63);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction12() {
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction12() {
   player.seekTo(72);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction13() {
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction13() {
   player.seekTo(76);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction14() {
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction14() {
   player.seekTo(79);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction15() {
+setTimeout(pauseVideoSection , 6000);
+}
+ function myFunction15() {
   player.seekTo(83);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction16() {
+setTimeout(pauseVideoSection , 6000);
+}
+ function myFunction16() {
   player.seekTo(91);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction17() {
+setTimeout(pauseVideoSection , 3000);
+}
+ function myFunction17() {
   player.seekTo(97);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction18() {
+setTimeout(pauseVideoSection , 6000);
+}
+ function myFunction18() {
   player.seekTo(111);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
-" function myFunction19() {
+setTimeout(pauseVideoSection , 3999);
+}
+ function myFunction19() {
   player.seekTo(117);
 player.playVideo();
-setTimeout(pauseVideoSection , N1*1000);
-}"
+setTimeout(pauseVideoSection , 6999);
+}
 
+
+
+
+
+
+
+
+
+
+
+
+/*******************************************************************/
 
 
 
