@@ -229,7 +229,7 @@ setTimeout(pauseVideoSection , 3000);
  function myFunction35() {
   player.seekTo(223);
 player.playVideo();
-setTimeout(pauseVideoSection , 1000);
+setTimeout(pauseVideoSection , 10000);
 }
  function myFunction36() {
   player.seekTo(251);
