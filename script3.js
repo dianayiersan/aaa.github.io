@@ -50,119 +50,111 @@ setTimeout(pauseVideoSection , 3000);
 */
 
 
-
-
-
-
- function myFunction1() {
+" function myFunction1() {
   player.seekTo(23);
 player.playVideo();
-setTimeout(pauseVideoSection , 4000);
-}
- function myFunction2() {
+setTimeout(pauseVideoSection , 5000);
+}"
+" function myFunction2() {
   player.seekTo(27);
 player.playVideo();
-setTimeout(pauseVideoSection , 4000);
-}
- function myFunction3() {
+setTimeout(pauseVideoSection , 5000);
+}"
+" function myFunction3() {
   player.seekTo(31);
 player.playVideo();
-setTimeout(pauseVideoSection , 2000);
-}
- function myFunction4() {
+setTimeout(pauseVideoSection , 3000);
+}"
+" function myFunction4() {
   player.seekTo(34);
 player.playVideo();
-setTimeout(pauseVideoSection , 3000);
-}
- function myFunction5() {
+setTimeout(pauseVideoSection , 4000);
+}"
+" function myFunction5() {
   player.seekTo(38);
 player.playVideo();
-setTimeout(pauseVideoSection , 6000);
-}
- function myFunction6() {
+setTimeout(pauseVideoSection , 7000);
+}"
+" function myFunction6() {
   player.seekTo(44);
 player.playVideo();
-setTimeout(pauseVideoSection , 6000);
-}
- function myFunction7() {
+setTimeout(pauseVideoSection , 7000);
+}"
+" function myFunction7() {
   player.seekTo(50);
 player.playVideo();
-setTimeout(pauseVideoSection , 5000);
-}
- function myFunction8() {
+setTimeout(pauseVideoSection , 6000);
+}"
+" function myFunction8() {
   player.seekTo(55);
 player.playVideo();
-setTimeout(pauseVideoSection , 6000);
-}
- function myFunction9() {
+setTimeout(pauseVideoSection , 7000);
+}"
+" function myFunction9() {
   player.seekTo(61);
 player.playVideo();
-setTimeout(pauseVideoSection , 3000);
-}
- function myFunction10() {
+setTimeout(pauseVideoSection , 4000);
+}"
+" function myFunction10() {
   player.seekTo(64);
 player.playVideo();
-setTimeout(pauseVideoSection , 5000);
-}
- function myFunction11() {
+setTimeout(pauseVideoSection , 6000);
+}"
+" function myFunction11() {
   player.seekTo(70);
 player.playVideo();
-setTimeout(pauseVideoSection , 2000);
-}
- function myFunction11() {
+setTimeout(pauseVideoSection , 3000);
+}"
+" function myFunction11() {
   player.seekTo(74);
 player.playVideo();
-setTimeout(pauseVideoSection , 2000);
-}
- function myFunction12() {
+setTimeout(pauseVideoSection , 3000);
+}"
+" function myFunction12() {
   player.seekTo(76);
 player.playVideo();
-setTimeout(pauseVideoSection , 2000);
-}
- function myFunction13() {
+setTimeout(pauseVideoSection , 3000);
+}"
+" function myFunction13() {
   player.seekTo(79);
 player.playVideo();
+setTimeout(pauseVideoSection , 5000);
+}"
+" function myFunction14() {
+  player.seekTo(83);
+player.playVideo();
 setTimeout(pauseVideoSection , 4000);
-}
- function myFunction14() {
+}"
+" function myFunction14() {
   player.seekTo(83);
 player.playVideo();
-setTimeout(pauseVideoSection , 3000);
-}
- function myFunction14() {
-  player.seekTo(83);
-player.playVideo();
-setTimeout(pauseVideoSection , 3000);
-}
- function myFunction15() {
+setTimeout(pauseVideoSection , 4000);
+}"
+" function myFunction15() {
   player.seekTo(92);
 player.playVideo();
-setTimeout(pauseVideoSection , 1000);
-}
- function myFunction16() {
+setTimeout(pauseVideoSection , 2000);
+}"
+" function myFunction16() {
   player.seekTo(98);
 player.playVideo();
-setTimeout(pauseVideoSection , 4000);
-}
- function myFunction17() {
+setTimeout(pauseVideoSection , 5000);
+}"
+" function myFunction17() {
   player.seekTo(112);
 player.playVideo();
-setTimeout(pauseVideoSection , 2000);
-}
- function myFunction18() {
+setTimeout(pauseVideoSection , 3000);
+}"
+" function myFunction18() {
   player.seekTo(118);
 player.playVideo();
-setTimeout(pauseVideoSection , 5000);
-}
- function myFunction19() {
+setTimeout(pauseVideoSection , 6000);
+}"
+" function myFunction19() {
   player.seekTo(0);
 player.playVideo();
-setTimeout(pauseVideoSection , 0);
-}
-
-
-
-
+setTimeout(pauseVideoSection , 1000);
+}"
 
 
 
@@ -173,8 +165,11 @@ setTimeout(pauseVideoSection , 0);
 
 /*******************************************************************/
 
+/*******************************************************************/
 
+/*******************************************************************/
 
+/*******************************************************************/
 
 function pauseVideoSection() {
 player.pauseVideo();
