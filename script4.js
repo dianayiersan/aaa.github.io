@@ -21,6 +21,12 @@ function onYouTubeIframeAPIReady() {
   );
 }
 
+$( document ).ready(function() {
+  $( ".js-click" ).click(function() {
+    $( ".js-click" ).css('background', 'green');
+  });
+});
+
 function onPlayerReady(event) {
   player.seekTo(section.start);
   player.playVideo();
@@ -104,57 +110,146 @@ setTimeout(pauseVideoSection , 6000);
 player.playVideo();
 setTimeout(pauseVideoSection , 3000);
 }
- function myFunction11() {
+ function myFunction12() {
   player.seekTo(74);
 player.playVideo();
 setTimeout(pauseVideoSection , 3000);
 }
- function myFunction12() {
+ function myFunction13() {
   player.seekTo(76);
 player.playVideo();
 setTimeout(pauseVideoSection , 3000);
 }
- function myFunction13() {
+ function myFunction14() {
   player.seekTo(79);
 player.playVideo();
 setTimeout(pauseVideoSection , 5000);
 }
- function myFunction14() {
-  player.seekTo(83);
-player.playVideo();
-setTimeout(pauseVideoSection , 4000);
-}
- function myFunction14() {
-  player.seekTo(83);
-player.playVideo();
-setTimeout(pauseVideoSection , 4000);
-}
  function myFunction15() {
+  player.seekTo(83);
+player.playVideo();
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction16() {
+  player.seekTo(83);
+player.playVideo();
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction17() {
   player.seekTo(92);
 player.playVideo();
 setTimeout(pauseVideoSection , 2000);
 }
- function myFunction16() {
+ function myFunction18() {
   player.seekTo(98);
 player.playVideo();
 setTimeout(pauseVideoSection , 5000);
 }
- function myFunction17() {
+ function myFunction19() {
   player.seekTo(112);
 player.playVideo();
 setTimeout(pauseVideoSection , 3000);
 }
- function myFunction18() {
+ function myFunction20() {
   player.seekTo(118);
 player.playVideo();
 setTimeout(pauseVideoSection , 6000);
 }
- function myFunction19() {
-  player.seekTo(0);
+ function myFunction21() {
+  player.seekTo(123);
+player.playVideo();
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction22() {
+  player.seekTo(126);
+player.playVideo();
+setTimeout(pauseVideoSection , 3000);
+}
+ function myFunction23() {
+  player.seekTo(136);
+player.playVideo();
+setTimeout(pauseVideoSection , 3000);
+}
+ function myFunction24() {
+  player.seekTo(142);
+player.playVideo();
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction25() {
+  player.seekTo(145);
+player.playVideo();
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction26() {
+  player.seekTo(165);
+player.playVideo();
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction27() {
+  player.seekTo(169);
+player.playVideo();
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction28() {
+  player.seekTo(181);
+player.playVideo();
+setTimeout(pauseVideoSection , 3000);
+}
+ function myFunction29() {
+  player.seekTo(185);
+player.playVideo();
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction30() {
+  player.seekTo(190);
+player.playVideo();
+setTimeout(pauseVideoSection , 7000);
+}
+ function myFunction31() {
+  player.seekTo(202);
+player.playVideo();
+setTimeout(pauseVideoSection , 7000);
+}
+ function myFunction32() {
+  player.seekTo(208);
+player.playVideo();
+setTimeout(pauseVideoSection , 3000);
+}
+ function myFunction33() {
+  player.seekTo(214);
+player.playVideo();
+setTimeout(pauseVideoSection , 7000);
+}
+ function myFunction34() {
+  player.seekTo(220);
+player.playVideo();
+setTimeout(pauseVideoSection , 3000);
+}
+ function myFunction35() {
+  player.seekTo(223);
 player.playVideo();
 setTimeout(pauseVideoSection , 1000);
 }
-
+ function myFunction36() {
+  player.seekTo(251);
+player.playVideo();
+setTimeout(pauseVideoSection , 5000);
+}
+ function myFunction37() {
+  player.seekTo(255);
+player.playVideo();
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction38() {
+  player.seekTo(260);
+player.playVideo();
+setTimeout(pauseVideoSection , 4000);
+}
+ function myFunction39() {
+  player.seekTo(251);
+player.playVideo();
+setTimeout(pauseVideoSection , 5000);
+}
 
 
 
